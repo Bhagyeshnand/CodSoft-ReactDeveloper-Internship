@@ -1,3 +1,3 @@
 # CodSoft-ReactDeveloper-Internship
 
-3 tasked Comoleted !
+3 tasked Completed !
